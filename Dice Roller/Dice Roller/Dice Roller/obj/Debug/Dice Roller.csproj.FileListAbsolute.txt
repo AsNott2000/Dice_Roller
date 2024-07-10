@@ -1,0 +1,24 @@
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.exe.config
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.exe
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.pdb
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.AssemblyReference.cache
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice_Roller.DiceRoller.resources
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice_Roller.Properties.Resources.resources
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.GenerateResource.cache
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.exe
+C:\Users\baris\OneDrive\Masaüstü\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.pdb
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.AssemblyReference.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.pdb
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.exe.config
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.exe
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\bin\Debug\Dice Roller.pdb
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.AssemblyReference.cache
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.SuggestedBindingRedirects.cache
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice_Roller.DiceRoller.resources
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice_Roller.Properties.Resources.resources
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.GenerateResource.cache
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.csproj.CoreCompileInputs.cache
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.exe
+D:\USB\Yazılım Dosyası\Arşivim\Dice Roller\Dice Roller\Dice Roller\obj\Debug\Dice Roller.pdb
